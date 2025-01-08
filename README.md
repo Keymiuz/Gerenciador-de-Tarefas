@@ -8,3 +8,4 @@ Marcar tarefa como concluída: O usuário pode selecionar uma tarefa e marcá-la
 Visualizar tarefas: Exibe todas as tarefas com seus respectivos status (Pendente ou concluída).
 
 
+Mais tarde eu voltarei nesse projeto para dar uma interface gráfica a ele, assim como o projeto de descontos!
